@@ -5,14 +5,16 @@
 
 ## Usage
 
-**If you want to account for language usage, then run the first bot**
+**If you want to account for language usage, then run the first bot.**
 
 ```console
   executables/Wordle_bot_with_api
 ```
 
-**If don't want to account for language usage, then run the second one**
+**If don't want to account for language usage, then run the second one.**
 
 ```console
   executables/Wordle_bot_without_api
 ```
+
+**The first bot is faster, but the second one tends to get the answer in fewer questions.**
